@@ -1,0 +1,23 @@
+Email 2: Expressing Interest in a Summer Internship
+
+Context: This email is concise and "calls to action".
+
+
+
+Subject: Inquiry for Summer Internship Opportunity
+
+Respected "Hiring Manager",
+
+My name is Devesh Katneshwarkar and I am currently a 1st year student pursuing a degree in Computer Science (AIML) at VIT Bhopal university. I have been following your company's work in AI-driven fintech solutions and am highly interested in contributing to your team as a summer intern.
+
+Through my coursework and independent projects, I have developed a strong foundation in Python, Data Structures, Machine Learning and Mathematics. I am eager to apply these technical skills in a professional environment and learn from the innovative team at your company.
+
+I have attached my resume and a link to my GitHub profile for your review. I would welcome the opportunity to discuss how my background and enthusiasm for AI and Fintech could support your upcoming summer projects.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Sincerely,
+Devesh Katneshwarkar
+Github - devesh18-design
+VIT Bhopal uiversity
+
